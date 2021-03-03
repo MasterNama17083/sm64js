@@ -217,7 +217,7 @@ window.onload = async () => {
         })
         Socket.recvAuthorizedUser(res)
     }
-    Socket.reloadSocket()
+    Socket.loadSocket()
 
 }
 
