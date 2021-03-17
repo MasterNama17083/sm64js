@@ -16,7 +16,7 @@ This is an ongoing work-in-progress port of the decompilation of original Ninten
 ### Run these commands
 ```bash
 # Clone the source code
-git clone https://github.com/MasterNama17083/sm64js/sm64js.git && cd sm64js_mnFork
+git clone https://github.com/MasterNama17083/sm64js.git && cd sm64js_mnFork
 # Install node packages
 npm install
 # Launch wepback dev server
